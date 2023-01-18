@@ -1,0 +1,27 @@
+_repo: Pieni-Runon-seppa_69754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Europaeus, D. E. D. (David Emanuel Daniel)
+    alias: Europaeus, David Emanuel Daniel
+    birthdate: 1820
+    deathdate: 1884
+    gutenberg_agent_id: '38629'
+    url: http://www.gutenberg.org/2009/agents/38629
+description: ''
+gutenberg_issued: '2023-01-09'
+identifiers:
+  gutenberg: '69754'
+language: fi
+pgterms:marc905: 20230105094113europaeus
+pgterms:marc906: '1847'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: 'Finland: J. Simeliuksen perilliset,1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pieni Runon-seppä
+url: http://www.gutenberg.org/ebooks/69754
