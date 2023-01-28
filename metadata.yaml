@@ -1,5 +1,8 @@
 _repo: Pieni-Runon-seppa_69754
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Europaeus, D. E. D. (David Emanuel Daniel)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '38629'
     url: http://www.gutenberg.org/2009/agents/38629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69754#Pieni-Runon-seppa
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69754'
